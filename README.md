@@ -57,3 +57,10 @@ The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
 # Blog-eme
+
+## Insruções para rodar na máquina
+
+Após clonar o projeto rode:
+```bash
+composer install
+```
